@@ -35,7 +35,7 @@ def remove_task():
         else:
             print("Invalid task number.")
 
-#Main Program Loop or section
+#Main Program Loop(main section of the program)
 if __name__== "__main__" :
     print("Welcome to the To Do List app")
     print("----------------------------------------")
