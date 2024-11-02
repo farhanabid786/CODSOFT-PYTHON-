@@ -2,9 +2,11 @@
 Hi! This  going to my first internship and I am very excited to perform all the given task in the python programming interniship .
 
 **DETAILS/EXPLAINATION FOR PROJECT 1 **:-
+
 TO DO LIST APPLICATIION can be useful in various filed of life by using it as Time Management , prioritization , Productivity , Remainder , Goal Setting , etc .
-**steps for creation of the To do list Application :-
-**
+
+**steps for creation of the To do list Application :-**
+
 Define an empty list: We start by defining an empty list called tasks to store our to-do items.
 
 Show Menu: The show_menu function displays the options available to the user.
