@@ -83,7 +83,8 @@ Now create the **Main section ** of the  Program :
 
 * Prints the generated password.
 
-**Details/Explanations for the project 4 ( Rock-paper-scissors game)**
+**Details/Explanations for the project 4 ( Rock-paper-scissors game) :**
+
 Rock-Paper-Scissors is a classic hand game that is often used as a simple decision-making tool. It's played between two people, and each player simultaneously forms one of three shapes with an outstretched hand:
 
 * Rock (a fist)
