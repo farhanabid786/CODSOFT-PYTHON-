@@ -82,3 +82,63 @@ Now create the **Main section ** of the  Program :
 * Calls the generate_password function with the specified parameters.
 
 * Prints the generated password.
+
+**Details/Explanations for the project 4 ( Rock-paper-scissors game)**
+Rock-Paper-Scissors is a classic hand game that is often used as a simple decision-making tool. It's played between two people, and each player simultaneously forms one of three shapes with an outstretched hand:
+
+* Rock (a fist)
+
+* (Paper (an open hand)
+
+* Scissors (a fist with the index and middle fingers extended, forming a V)
+
+# Rules:
+* Rock crushes Scissors.
+
+* Scissors cuts Paper.
+
+* Paper covers Rock.
+
+If both players choose the same shape, the game is a tie and usually played again to determine a winner. It's a game of chance and strategy, often used to resolve minor disputes or make quick decisions. It's simple, fun, and can be played anywhere without any equipment.
+
+# Here is the steps for the creation of the project 4 :-
+
+** Import Libraries** :
+
+* random: To randomly select the computer's choice.
+
+* tkinter: To create the graphical user interface (GUI).
+
+* messagebox: To display the result in a pop-up window.
+
+**Function winner(user_choice, computer_choice)** :
+
+Compares the user's choice and the computer's or system's choice to determine the winner.
+
+**Function play(user_choice)**:
+
+Randomly selects the system's choice.
+
+Calls determine_winner to get the result.
+
+Updates the result label with the outcome.
+
+# Create the Main Window:
+
+Sets up the main window with the title "Rock-Paper-Scissors Game".
+
+# Create and Place Buttons:
+
+Adds buttons for "Rock", "Paper", and "Scissors" with commands to play the game.
+
+# Add Instructions:
+
+Adds a label with instructions for the user.
+
+# Add Result Label:
+
+Adds a label to display the result of the game.
+
+# Run the Main Loop:
+
+Starts the Tkinter main loop to run the application.
