@@ -103,7 +103,7 @@ If both players choose the same shape, the game is a tie and usually played agai
 
 # Here is the steps for the creation of the project 4 :-
 
-** Import Libraries** :
+**Import Libraries** :
 
 * random: To randomly select the computer's choice.
 
